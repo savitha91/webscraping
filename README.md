@@ -13,4 +13,21 @@ The code parses the page, find the data and extracts it
 ## Python libraries for web scraping
 1. Selenium : Automate browser activities
 2. BeautifulSoup : Parse HTML and XML content
+   beautifulsoup4 is the name of the package.
+   bs4 is the name of the module.
+   BeautifulSoup is the name of a function that is a member of the module
 3. Pandas 
+
+## Setting up chrome driver for Selenium - MacOS
+1. Download chrome driver for mac - https://www.edureka.co/community/52315/how-to-setup-chrome-driver-with-selenium-on-macos
+2. Check if /usr/local/bin path is available. If not, create the path. Place the downloaded chrome driver at this location
+
+
+
+
+
+
+
+
+# Reference
+1. https://www.edureka.co/community/52315/how-to-setup-chrome-driver-with-selenium-on-macos
